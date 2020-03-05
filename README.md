@@ -1,0 +1,2 @@
+# vscode-drawio-preview
+vscode
