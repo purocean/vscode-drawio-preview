@@ -31,7 +31,7 @@ function getHtmlContent(context: vscode.ExtensionContext, panel: vscode.WebviewP
         lightbox: false,
         nav: true,
         resize: true,
-        toolbar: 'zoom layers',
+        toolbar: 'pages zoom layers',
         xml: content
     });
 
@@ -90,6 +90,7 @@ function getHtmlContent(context: vscode.ExtensionContext, panel: vscode.WebviewP
 
           body {
             background: #fff;
+            color: #000;
           }
         </style>
     </head>
