@@ -2,7 +2,7 @@
 	"name": "drawio-preview",
 	"displayName": "Drawio Preview",
 	"description": "Preview drawio diagram file in vscode.",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"license": "MIT",
 	"publisher": "purocean",
 	"bugs": {
